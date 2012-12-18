@@ -1,0 +1,5 @@
+#ignore the bin
+bin/*
+
+#ignore class files
+*.class
